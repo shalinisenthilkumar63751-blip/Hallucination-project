@@ -1,0 +1,6 @@
+{
+  "name": "MedVerify: Medical Hallucination Detector",
+  "description": "Factual Hallucination Detection and Correction in LLM-Generated Medical Summaries using Claim Decomposition and Evidence Retrieval.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
